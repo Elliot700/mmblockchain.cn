@@ -1,4 +1,4 @@
-# 区块链小白书
-李笑来（著）&copy; 2019
+# 从0认识区块链
+猫咪区块链（著）&copy;
 
-![](/images/blbcover.gif)
+![](/images/blbcover.png)
